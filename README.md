@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Juliana 👋
+- 📚 I’m majoring in Data Science and Business Analytics at University of London.
+- 🌱 I’m currently learning machine learning, web scraping and data visualization.
+- 🔭 I’m currently working on analysing a Gym Membership dataset as part of my Data Analytics Club Internal Project.
+- 💬 Ask me about any tech events that is happening, I can send you some events! 
+- 🤔 I’m looking for help with how to get started contributing to open source projects and hackathons.
+- 📫 Let's connect on [LinkedIn]([url](https://www.linkedin.com/in/juliana-charisse-r).
 
 <!--
 **julianacharisser/julianacharisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
