@@ -1,8 +1,7 @@
 ## Hi there, I'm Juliana 👋
 - 📚 I’m majoring in Data Science and Business Analytics at University of London.
 - 🌱 I’m currently learning machine learning.
-- 💬 Ask me about any tech events that is happening in Singapore. 
-- 🤔 I’m looking for help with how to get started contributing to open source projects and hackathons.
+- 🤔 I’m open to collaboration opportunities.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/juliana-charisse-r) :-) !
 
 <!--
