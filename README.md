@@ -1,7 +1,6 @@
 ## Hi there, I'm Juliana 👋
 - 📚 I’m majoring in Data Science and Business Analytics at University of London.
-- 🌱 I’m currently learning machine learning.
-- 🤔 I’m open to collaboration opportunities.
+- 🌱 I’m currently learning about cryto trading bots!
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/juliana-charisse-r) :-) !
 
 <!--
