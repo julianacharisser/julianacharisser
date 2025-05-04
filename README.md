@@ -1,7 +1,8 @@
 ## Hi there, I'm Juliana 👋
 - 📚 I’m majoring in Data Science and Business Analytics at University of London.
-- 🌱 I’m currently learning about cryto trading bots!
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/juliana-charisse-r) :-) !
+- 😄 I love extracting actionable insights from datasets!
+- 🌱 Currently working on NLP projects.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/juliana-charisse-r) :) !
 
 <!--
 **julianacharisser/julianacharisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
