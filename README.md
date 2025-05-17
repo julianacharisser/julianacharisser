@@ -1,7 +1,7 @@
 ## Hi there, I'm Juliana 👋
 - 📚 I’m majoring in Data Science and Business Analytics at University of London.
 - 😄 I love extracting actionable insights from datasets!
-- 🌱 Currently working on NLP projects.
+- 🌱 Currently working on projects.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/juliana-charisse-r) :) !
 
 <!--
