@@ -2,7 +2,7 @@
 - 📚 I’m majoring in Data Science and Business Analytics at University of London.
 - 😄 I love extracting actionable insights from data!
 - 🌱 Currently working on Machine Learning, Computer Vision and Natural Language Processing Projects.
-- 👯 As President of the SIM Data Analytics Club, I’m looking to collaborate and partner with organizations or clubs on external projects, workshops, hackathons, and networking events to drive impactful, data-driven experiences. Visit our website [here](https://dacsim.github.io/).
+- 🤝 As President of the SIM Data Analytics Club, I’m looking to collaborate and partner with organizations or clubs on external projects, workshops, hackathons, and networking events to drive impactful, data-driven experiences. Visit our website [here](https://dacsim.github.io/).
 - 📫 Let's connect and chat more on [LinkedIn](https://www.linkedin.com/in/juliana-charisse-r) :) !
 
 <!--
